@@ -5,27 +5,12 @@
    
   <link href="css/style.css" rel="stylesheet">
 
-  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=vK1JcZeOCYlttHq-67H4dtn4V5puuN0yWiCje6bMyUHCSYGA3geege8pwsbOWTzCsKn35xJE0EhsLPjop2FE7w" charset="UTF-8"></script></head>
+  </head>
 
   <body>
 
    <h1>Amigaluri</h1>
 
-   <nav class="principal">
-      <ul>
-        <li>
-        <a href="#Amigurumi">Amigurumi</a>
-        </li>
-       
-        <li>
-        <a href="#Amigaluri">Amigaluri</a>
-        </li>
-       
-        <li>
-        <a href="#Passoapasso">Tricerátops</a>
-        </li>
-      </ul>
- </nav>
     <section id=Amigurumi>
 
     <h2> o que é Amigurumi?</h2>
@@ -226,6 +211,7 @@
 
   </body>
   <html/>
+
 
 body{
   text-align:justify;
