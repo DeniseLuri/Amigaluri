@@ -1,107 +1,229 @@
-<!doctype html>
-<html>
+<!DOCTYPE html>
+
   <head>
-  <title> Ada Lovelace </title>
+  <title>Amigaluri</title>
+   
   <link href="css/style.css" rel="stylesheet">
-  </head> 
+
+  <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=vK1JcZeOCYlttHq-67H4dtn4V5puuN0yWiCje6bMyUHCSYGA3geege8pwsbOWTzCsKn35xJE0EhsLPjop2FE7w" charset="UTF-8"></script></head>
+
   <body>
-    <H1>Mulheres que fizeram história na tecnologia</H1>
-    <nav class="principal">
+
+   <h1>Amigaluri</h1>
+
+   <nav class="principal">
       <ul>
         <li>
-        <a href="#Infância">Infância</a>
+        <a href="#Amigurumi">Amigurumi</a>
         </li>
        
         <li>
-        <a href="#Juventude">Juventude</a>
+        <a href="#Amigaluri">Amigaluri</a>
         </li>
        
         <li>
-        <a href="#Vida adulta">Vida adulta</a>
+        <a href="#Passoapasso">Tricerátops</a>
         </li>
       </ul>
  </nav>
-    <section>
-        <h2>Ada Lovelace</h2>
+    <section id=Amigurumi>
 
-       <p>Augusta Ada King, condessa de Lovelace, nasceu em Londres em 1815, mais conhecida como Ada Lovelace, foi a primeira pessoa a escrever um algoritmo para ser processado por uma máquina na história da computação.</p>
-
-       <img src="img/adaPintura.png" alt="Pintura colorida de Ada.">
-
-        <section id=Infância>
-        <H3 class="title-verde">Infância</H3>
-
-        <P>Seu pai era o poeta romântico Lord Byron, conhecido por seus exageros como ter um urso domesticado em seu quarto e por atos (incomuns para a época), como se relacionar com homens e mulheres. Sua mãe era a rica e culta Annabella Milbanke, apaixonada por matemática e pouco paciente com as maluquices do marido.</P>
-
-        <P>Lord Byron bebia demais o que resultou no divórcio quando Ada tinha só 5 semanas de vida. Annabella foi mãe solo preocupada em garantir que Ada não ficasse parecida com o pai. Investiu na educação rigorosa da menina contratando os melhores professores. Acreditava que, se a filha se interessasse por matemática e ciências, se afastaria da poesia e das tendências excêntricas herdadas do pai.</P>
-
-        <P>Ada era fascinada por matemática e poesia (para desespero de sua mãe). Aos doze anos, encantou-se pela engenharia mecânica e escreveu um livro chamado Flyology (ou Voologia), com desenhos de um plano para a construção de uma máquina de voar. Ao contar para sua mãe sobre a máquina, Annabelle achou que Ada estava se desviando dos estudos e a reprimiu. Então, pediu para que Ada focasse em se tornar uma dama.</p>
-
-        <img src="img/adaCrianca.png" alt="Pintura de Ada criança segurando um desenho">
-
-        </section>
-
-        <section id="Juventude">
-        <h3 class="title-vermelho">Juventude</h3>
-
-        <p>Aos 17 anos, Ada foi apresentada à corte e passou a ser convidada para festas na cidade. Seu jeito inteligente e rápida atraiu muitos solteiros, mas ela se interessou por um velho matemático chamado Charles Babage, que lhe contou sobre a invenção que trabalhava há anos, a “máquina diferencial”, que fazia grandes cálculos.</p>
-
-        <P>Charles gostou da jovem, ela era uma das poucas pessoas que se interessou e entendeu suas invenções. Quando Ada conheceu a máquina diferencial, viu nela muitas possibilidades que nem mesmo Charles havia pensado. O entusiasmo da jovem matemática o impressionava.</P>
-
-        </section>
-
-        <section id="Vida adulta">
-        <h3 class="title-amarelo">Vida adulta</h3>
-       
-        <P>Charles era viúvo e lutava por investimentos para os seus projetos. Ada se casou e teve 3 filhos. Em 1830, isso significava que ela deveria abandonar os estudos e se dedicar aos filhos. Trocava cartas com Charles, acompanhava o trabalho dele de longe. Tinha pouco tempo para os próprios estudos. Passou a resolver problemas matemáticos à noite, após as crianças dormirem. Ela queria era trabalhar com Charles em suas máquinas incríveis.</P>
-        
-        <P> Tempos depois, Charles criou o Engenho Analítico, melhor do que a máquina diferencial, pois seria capaz de analisar dados e guardar informações na memória. Algo tão revolucionário que poucas pessoas entenderam. Para divulgar sua nova máquina, precisaria publicar artigos em francês, língua que ele não sabia, mas Ada era fluente. Como ela entendia as criações de Charles, era a pessoa perfeita para traduzir esses artigos.</P>
-
-        <P>Enquanto Ada traduzia o conteúdo, fazia anotações por conta própria, imaginava inúmeras possibilidades que a máquina teria. Não tardou para que suas anotações ficassem maiores do que o próprio artigo.</P>
-
-        <P>Charles queria que a máquina resolvesse problemas matemáticos. Ada pensava em algo muito maior: os números poderiam representar coisas totalmente diferentes como letras e notas musicais. Escreveu instruções detalhadas com diagramas e tabelas explicando como o engenho analítico deveria processar uma equação matemática complicada. Assim, a máquina resolveria em segundos o que um humano levaria horas para solucionar. Os computadores ainda não existiam, mas Ada tinha acabado de criar o primeiro programa de computador. Ada não viveu para ver que suas ideias se transformariam nos computadores modernos que usamos hoje.</P>
-        
-        <img src="img/adaTabela.png" alt="Pintura de Ada jovem ao lado de uma tabela com algoritmos">
-        </section>
+    <h2> o que é Amigurumi?</h2>
     
+      <p>Amigurumi (編みぐるみ? lit. bicho de pelúcia feito de crochê) é uma técnica japonesa para criar pequenos bonecos feitos de crochê ou tricô.
+      
+      <p> A criação de bonecos de crochê, apesar de ser um costume milenar, ressurgiu no Japão nos anos 80, com a onda estética  de objetos com aparência meiga e colorida (kawaii), o que demandou a produção de revistas de grande audiência feminina a publicar receitas passo-a-passo de como criar amigurumis.  </p>
+    
+     <p> Com a popularização da cultura japonesa ao redor do mundo, o amigurumi também ficou conhecido em outros países, e chegou aqui no Brasil por meio de livros e revistas vendidos em livrarias especializadas.
+      </p>
+    
+  <nav>
+    <a target="_blank" href=" https://pt.wikipedia.org/wiki/Amigurumi"> 
+      
+    <h4>Conheça mais sobre Amigurumi aqui!</h4>
+      
+    </a>
+
+  </nav>
+ 
+
+      <img src="img/boneco de neve.jpg" alt="imagem amigurumi boneco de neve.">
+
+      <img src="img/dino.jpg" alt="imagem do dino">
+
+ 
+
     </section>
 
-  <h3>Conheça outras mulheres que fizeram história na tecnologia:</h3>
- <nav>
-    <ul>
-        <li>
-        <a href="https://pt.wikipedia.org/wiki/Grace_Hopper" target="/_blank">Grace Hopper</a>
-        </li>
-        <li>
-        <a href="https://pt.wikipedia.org/wiki/Dorothy_Vaughan"target="/_blank">Dorothy Vaughan</a>
-        </li>
-        <li>
-        <a href="https://pt.wikipedia.org/wiki/Margaret_Hamilton_(cientista_da_computação)"target="/_blank">Margaret Hamilton</a>
-        </li>
-        <li>
-        <a
-        href="https://pt.wikipedia.org/wiki/Katherine_Johnson"target="/_blank">Katherine Johnson</a>
-      </li>
-    </ul>
-  </nav>
-  
-  <h4> Quer saber mais sobre outras mulheres que fizeram história na programação? Deixe seu e-mail? </h4>
-  <form>
-    <label> <for="nome"> Nome: </label>
-    <input id="nome" type="text">
-    
-    <label> <for="email"> E-mail: </label>
-    <input id="email" type="email">
-
-    <label> <for="número de telefone"> Número de Telefone: </label><input id="telefone" type="number">
-
-    <button class="button" id="botãoEnviar"> Enviar</button>
-  </form>
-  
-    <script type="text/javascript" src="js/script.js">
-  
-    </script>
+    <section id=Amigaluri>
  
-  </body>
+    <h2> Quem é Amigaluri?</h2>
 
-<html/>
+      <img src="img/logo.jpg" alt="imagem do logo">
+      <img src="img/capa.jpg" alt="imagem da capa">
+ 
+      <p>Olá, meu nome é Denise Luri Onari, eu moro em Sao Paulo  e sou descendente de japoneses. </p>
+        
+      <P> Desde pequena fui incentivada a fazer trabalhos manuais e por volta dos anos 2000, frenquentando as livrarias japonesas localizadas no bairro da Liberdade tive meu primeiro contato com livros de passo-a- passo de amigurumi. </p>
+      
+      <P> 
+      Com auxilio de parentes, eu consegui traduzir as receitas e fazer meus primeiros amigurumis.  A partir daí eu não parei mais e hoje desenvolvo minhas próprias receitas. </p>
+
+      <P> Na próxima sessão você poderá conferir uma dessas receitas, com o passo a passo para fazer um dinossauro tricerátops. </p> 
+
+      <nav>
+      <a target="_blank" href="https://instagram.com/amigaluri?utm_medium=copy_link"> 
+      
+      <h4> Você pode conferir meus trabalhos no instagram @amigaluri </h4>
+      
+      </a>
+      
+      <img src="img/babyshark.jpg" alt="imagem amigurumi babyshark.">
+      
+    </section>
+
+    <section id=Passoapasso>
+ 
+    <h2> Passo a passo - Tricerátops</h2>
+ 
+      <img src="img/tri.jpg" alt="imagem amigurumi Tricerátops.">
+      <img src="img/tri1.JPG" alt= imagem amigurumi Tricerátops.">
+
+      <p>Essa receita é para crocheteiras avançadas, mas existem diversos kits básicos vendidos por marcas famosas de lã, para pessoas que estão começando agora. </p>
+
+      <element class="receita">
+
+        <h3> Materiais</h3>
+        <ol>
+          <li> <p>duas cores de lã </p></li>
+          <li><p> olhos para bichinhos de pelúcia</p></li>
+          <li><p> agulha de crochet conforme o tamanho da lã</p></li>
+          <li><p>marcadores de ponto </p></li>
+          <li>  <p>tesoura</p></li>
+        </ol>
+
+       <h3>Legenda</h3>
+  
+          <p>Cor 1 -Amarela</p>
+          <p>Cor 2 - Cinza</p>
+          <p> c - correntinha</p>
+          <p> pb - ponto baixo</p>
+          <p> pa - ponto alto </p>
+          <p> aum - aumento  </p> 
+          <p> dim - diminuição </p>
+
+        <h3>Cabeça. Cor 1 - Amarela. </h3>
+
+       <p>1.	6c no anel mágico</p>
+       <p>2.	2pb em cada c</p>
+       <p>3.	Repetir 6 vezes: 2 pb + 1 aum </p>
+       <p>4.	Repetir 6 vezes: 3 pb + 1 aum </p>
+       <p>5.	Repetir 6 vezes: 4 pb + 1 aum </p>
+       <p>6.	Repetir 6 vezes: 5 pb + 1 aum </p>
+       <p>7.	marcar e dar 1 volta completa.</p>
+
+      <h3> Osso da cabeça, “coroa". Cor 1 - Amarela.</h3>
+      
+       <p>8. 2pb Repetir 3 vezes</p>
+       <p>9. 1c + 1pa + 1c</p>
+       <p>10. 2pb repetir 3 vezes </p>
+       <p>11. 1c + 1pa + 1c</p>
+       <p>12. 2pb Repetir 3 vezes </p>
+       <p>13. 1c + 1pa+ 1c</p>
+      <p>14. 2pb Repetir 3 vezes</p>
+      <p>15. 1c + 1pa+ 1c</p>
+      <p>16. 2pb Repetir 3 vezes </p>
+      <p>17. 1c + 1pa+ 1c</p>
+      <p>18. 2pb Repetir 3 vezes </p>
+      <p>19. 1c + 1pa+ 1c</p>
+      <p>20. 2pb Repetir 3 vezes </p>
+      
+      <p>21. 6pb + 4 pb subindo para começar a fazer um “circulo” atrás deixando a coroa para fora dar a volta + 4 pb descendo para fechar um círculo nesse passo vamos completar uma volta.</p>
+      
+      <p>Vamos parar agora para fazer o rosto do dino, aproveitando que a peça ainda está aberta.</p>
+
+      <h3> Parte da frente do rosto do dino. </h3>
+
+      <p>22. 6c anel</p>
+      <p>23. 2pb em cada c</p>
+      <p>24. Repetir 6 x vezes 2 pb + 1 aum </p>
+      <p>25. Repetir 6 x  vezes 3 pb + 1 aum </p>
+      <p>26. Repetir 6 x vezes  4 pb + 1 aum </p>
+      <p>27. Repetir 6 x vezes  5 pb + 1 aum</p>
+      <p>28. Encher a parte da frente do rosto com enchimento e costurar.</p>
+      
+      <h3>Chifre nariz. Cor 2 - Cinza.</h3>
+
+      <p>29. 6c anel mágico </p>
+      <p>30. 2pb em cada c </p>
+      <p>31. Dar 5 voltas de pb </p>
+
+      <h3> Chifre testa. Cor 2 - Cinza. (Repetir 2x)</h3>
+      <p>32. 6c anel</p>
+      <p>33. Dar 5 voltas com pb </p>
+
+      <p>34. Costurar os chifres</p>
+      <p>35. Colocar os olhos</p>
+      <p>36. Detalhe da coroa 1pb, com cor 2.</p>
+      <p>37. Esconder todos fios por dentro do dino.</p>
+      <p>Agora vamos terminar o corpo do dino</p>
+      <p>38.	Usar marcador</p>
+      <p>39.	1 volta inteira com pb</p>
+      <p> 40.	1 volta inteira com pb, mas quando chegar na base do cabeça do dinossauro vamos diminuir a peça para criar um “queixo” somente nessa parte.
+      3x 1dim 2pb </p>
+
+      <h3> Vamos construir o pescoço agora. Cor 1 - Amarela.</h3>
+      
+      <p>41. 4 voltas com pb  </p>  
+      <p>42. 1 volta com pb de 5 pb + 1 aum</p>
+      <p>43. 1 volta com pb de 4 pb + 1 aum</p>
+      <p>44. 5 voltas com pb. Aqui você pode alongar o corpo do dino, é só aumentar o número de voltas.</p>
+      <p> 45. Agora vamos começar a diminuição gradual para formar um rabo. Nessa diminuição vamos repetir as intruções por volta.</p>
+      <p>46. 1 volta com pb  5 pb + 1 dim</p>
+      <p>47. 1 volta com pb  </p>
+      <p>48. 1 volta com pb  4 pb + 1 dim </p>
+      <p>49. 1 volta com pb  </p>
+      <p>50. 1 volta com pb  3 pb + 1 dim</p>
+      <p>51. 1 volta com pb  </p>
+      <p>52. 1 volta com pb  2 pb + 1 dim  </p>
+      <p>53. 1 volta com pb  </p>
+      <p>54. 1 volta com pb  2 pb + 1 dim  </p>
+      <p>55. Vá enchendo o dino com enchimento acrílico.</p>
+      <p>56.	voltas até o final formando a pontinha do rabo. Quando ficar bem afunilado, você pode finalizar com pb 1 pb + 1 dim </p>
+      
+      <h3>Pernas. Repetir 4 vezes. Cor 1 - Amarela.</h3>
+      <p>57. 6 c fecha em um anel</p>
+      <p>58. 2pb em cada correntinha</p>
+      <p>59. Repetir 6 vezes: 2 pb + 1 aum </p>
+      <p>60. 1 volta só pegando a alça de dentro do ponto, com pb  </p>
+      <p>61. 3 voltas com pb  </p>
+
+      <h3> Costas.Bolinhas. Cor 2 - Cinza.</h3>
+
+      <p>Tamanho 1</p>
+      <p>62. 6c fecha em um anel</p>
+      <p>63. 2pb em cada correntinha</p>
+
+      <p>Tamanho 2</p>
+      <p>64. 6 c fecha em um anel</p>
+      <p>65. 2pb em cada correntinha</p>
+      <p>66. Repetir 6 vezes: 2 pb + 1 aum </p>
+
+      <p>Tamanho 3</p>
+      <p>67. 6 c fecha em um anel</p>
+      <p>68. 2pb em cada correntinha</p>
+      <p>69. Repetir 12 vezes: 2 pb + 1 aum </p>
+      
+      <h3>Unhas do pé. Cor 2 - Cinza. Repetir 12 vezes</h3>
+      <p>70.	4 c fecha em um anel, 2pb em cada correntinha. Costurar metade  da unha em baixo do pé e metade na frente.
+      </p>
+
+      <h2> Muito Obrigada!</h2>
+
+      </section class= "receita">
+
+     </section>
+
+  </body>
+  <html/>
+
